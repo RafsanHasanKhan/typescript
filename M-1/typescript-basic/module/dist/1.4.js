@@ -15,7 +15,7 @@ d = 123;
 // Array
 let friends = ['rafsan', 'hasan', 'khan'];
 friends.push('rifat');
-let eligibleRollList = [1, 2, 3, 4, 5];
+let eligibleRollList = [1, 2, 3, 4, 5, 6];
 eligibleRollList.push(7);
 // tuple ---> array ---> order ---> type of values
 let coordinates = [1, 5];
