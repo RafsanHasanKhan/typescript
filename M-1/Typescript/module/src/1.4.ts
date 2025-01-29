@@ -20,7 +20,7 @@ d = 123;
 // Array
 let friends: string[] = ['rafsan', 'hasan', 'khan'];
 friends.push('rifat')
-let eligibleRollList: number[] = [1, 2, 3, 4, 5];
+let eligibleRollList: number[] = [1, 2, 3, 4, 5,6];
 eligibleRollList.push(7);
 
 // tuple ---> array ---> order ---> type of values
