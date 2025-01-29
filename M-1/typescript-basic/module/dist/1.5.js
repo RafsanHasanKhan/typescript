@@ -7,3 +7,4 @@ const user = {
     lastName: 'khan',
     isMarried: true,
 };
+// user.company = 'ph'
